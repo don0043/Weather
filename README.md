@@ -6,6 +6,8 @@ Main page of app
 <br>
 About weather
 ![Image alt](https://github.com/don0043/Weather/blob/main/secp.JPG)
+**
+**
 <br>
 Searching for weather form
 ![Image alt](https://github.com/don0043/Weather/blob/main/third.JPG)
